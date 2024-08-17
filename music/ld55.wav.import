@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ld55.wav-bd406c4141859e30b4134cbf0d0a893e.sample"
+
+[deps]
+
+source_file="res://music/ld55.wav"
+dest_files=[ "res://.import/ld55.wav-bd406c4141859e30b4134cbf0d0a893e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=2
+edit/loop_begin=445640
+edit/loop_end=3569069
+compress/mode=0

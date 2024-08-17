@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/arena.1.map-025ba7f706b9fecfb43f743d3afbc8bb.tres"
+
+[deps]
+
+source_file="res://autosave/arena.1.map"
+dest_files=[ "res://.import/arena.1.map-025ba7f706b9fecfb43f743d3afbc8bb.tres" ]
+
+[params]
+

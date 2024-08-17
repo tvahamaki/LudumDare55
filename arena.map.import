@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/arena.map-768086147144075164d75b0248c1b519.tres"
+
+[deps]
+
+source_file="res://arena.map"
+dest_files=[ "res://.import/arena.map-768086147144075164d75b0248c1b519.tres" ]
+
+[params]
+
